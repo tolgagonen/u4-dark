@@ -71,7 +71,10 @@ body {
 .right {
     text-align: right;
     align-content: flex-end;
+    text-align: end;
 }
+
+
 
 .card {
     margin-top: 2em;
